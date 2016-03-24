@@ -1,0 +1,7 @@
+{
+  "account" :  "alejandra.neolopan@fundacion-jala.org",
+  "password" :  "Nexo2010",
+  "proxy" :  "http://172.20.240.5:8080",
+  "projectById" :  "http://todo.ly/api/projects/[id].json"
+}
+
